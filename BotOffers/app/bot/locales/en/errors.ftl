@@ -1,0 +1,11 @@
+error-args = 🚫Error sending the message. Please provide the required data to proceed.
+error-block = 🚫The user is already blocked.
+error-unblock = 🚫The user is already unblocked.
+error-search = 🚫User not found in the database.
+error-check = 🚫No check found with that code.
+error-refund = 🚫Error! Refund could not be processed.
+error-payment = 🚫Error! Payment was not completed.
+error-time-life = 🚫The check's lifetime has expired.
+error-admin = 🚫You are not an administrator of the bot.
+error-late-users = 🚫Error! No recent users found.
+error-fsm-data = 🚫Error! The state data provided is corrupted.
